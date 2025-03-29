@@ -1,0 +1,4 @@
+gymnasium
+argparse
+numpy
+wandb
