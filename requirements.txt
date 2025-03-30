@@ -1,0 +1,6 @@
+gymnasium
+argparse
+numpy
+gym-minigrid
+minigrid
+wandb
